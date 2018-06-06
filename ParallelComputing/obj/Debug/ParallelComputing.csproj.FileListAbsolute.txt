@@ -1,0 +1,7 @@
+E:\my\Otus\2018-06-07 мое занятие\Example\ParallelComputing\ParallelComputing\bin\Debug\ParallelComputing.exe.config
+E:\my\Otus\2018-06-07 мое занятие\Example\ParallelComputing\ParallelComputing\bin\Debug\ParallelComputing.exe
+E:\my\Otus\2018-06-07 мое занятие\Example\ParallelComputing\ParallelComputing\bin\Debug\ParallelComputing.pdb
+E:\my\Otus\2018-06-07 мое занятие\Example\ParallelComputing\ParallelComputing\obj\Debug\ParallelComputing.csprojResolveAssemblyReference.cache
+E:\my\Otus\2018-06-07 мое занятие\Example\ParallelComputing\ParallelComputing\obj\Debug\ParallelComputing.csproj.CoreCompileInputs.cache
+E:\my\Otus\2018-06-07 мое занятие\Example\ParallelComputing\ParallelComputing\obj\Debug\ParallelComputing.exe
+E:\my\Otus\2018-06-07 мое занятие\Example\ParallelComputing\ParallelComputing\obj\Debug\ParallelComputing.pdb
